@@ -15,7 +15,9 @@
     </head>
 
     <body> 
-    <h1>home</h1>
+        <main>
+            <h1>home</h1>
+        </main>
     </body>
 
     <footer>
